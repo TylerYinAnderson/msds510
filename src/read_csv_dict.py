@@ -22,3 +22,4 @@ def readRows(inputCSV):
 if __name__ == "__main__":
     csvToRead = argumentExists(1)
     readRows(csvToRead)
+# having a little trouble with this one
